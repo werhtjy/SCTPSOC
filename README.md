@@ -9,10 +9,13 @@ Usage:
 # Для машины, которая получает данные:
 
 Установка скрипта
+
 $ git clone https://github.com/werhtjy/SCTPSOC.git
 
 Запуск скрипта
+
 $ cd SCTPSOC/
+
 $ sudo python3 script.py
 
 # Для машины, которая отправляет данные:
