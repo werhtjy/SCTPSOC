@@ -4,7 +4,6 @@ sctp soc. Very simple
 Requirements
 
 $ sudo apt-get install lksctp-tools
-Usage:
 
 # Для машины, которая получает данные:
 
